@@ -12,9 +12,6 @@ Hi, I'm Madi, a full-stack web-developer. I mostly work in the backend with Java
 | D     | C, R, Go |
 | E | Rust |
 
-## Certificates (Non-SSL)
-* [GitHub Actions](https://www.credly.com/users/madimadica)
-
 <!-- **S-Tier** languages are those that I understand insanely well, from syntax to the standard APIs. *Java* is my only S-tier, as no other language I know comes close to the 10k+ hours I've spent learning and using Java.  
 **A-tier** languages are those that I know very well, and have used for thousands of hours each, just not to the extreme depth that I understand Java. Everything else I've dabbled in for a few dozen or few hundred hours, but am either so out of practice (C-tier), or only learned the basics (D and E-tier). -->
 
@@ -43,6 +40,10 @@ I have worked on many projects over the years, and below are some of them. The "
 <!-- TODO AoC solutions repo -->
 
 ---
+
+## Certificates (Non-SSL)
+* [GitHub Actions](https://www.credly.com/users/madimadica)
+
 
 ## Contact
 For bug reports and feature requests, please start by creating a new GitHub Issue in the respective repository. For anything else, please contact madi@madimadica.com.
