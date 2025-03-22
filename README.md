@@ -1,5 +1,5 @@
 # Madimadica
-Hi, I'm Madi, a full-stack web-developer. I mostly work in the backend with Java/Spring Boot, but I'm also well versed in the frontend. I have a Bachelor's Degree in Computer Science and another in Applied Mathematics. Even though I work in the CS industry, I still love learning and teaching academic topics in math and CS.
+i write code (: <!-- yes, this inverted smiley is a troll, I'm not that insane -->
 
 ## Language (Skill) Tier List
 
@@ -17,7 +17,7 @@ Hi, I'm Madi, a full-stack web-developer. I mostly work in the backend with Java
 
 
 ## Project Portfolio
-I have worked on many projects over the years, and below are some of them. The "type" categorizes the project. *Maven* is a public Maven dependency. *LaTeX* is a repo of `.tex` files for math courses, where some parts were done on paper and missing. *Misc* are miscellaneous repos that don't have a major category. *WIP* is a work-in-progress repo that is still under construction/development.
+Here are some cool projects I've worked on. The "type" categorizes the project. *Maven* is a public Maven dependency. *LaTeX* is a repo of `.tex` files for math courses, where some parts were done on paper and missing. *Misc* are miscellaneous repos that don't have a major category. *WIP* is a work-in-progress repo that is still under construction/development.
 
 | Type | Name  | Description |
 |-------|----------|----------|
