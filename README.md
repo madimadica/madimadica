@@ -1,5 +1,4 @@
 # Madimadica
-i write code (: <!-- yes, this inverted smiley is a troll, I'm not that insane -->
 
 ## Language (Skill) Tier List
 
