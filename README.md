@@ -20,6 +20,7 @@ Here are some cool projects I've worked on. The "type" categorizes the project. 
 
 | Type | Name  | Description |
 |-------|----------|----------|
+| Java/Maven | [hyde](https://github.com/madimadica/hyde) | Java dependency - Markdown to AST parser, with HTML rendering |
 | Maven | [madimadica-jdbc-for-spring](https://github.com/madimadica/madimadica-jdbc-for-spring) |  Fluent JDBC API for SQL in Spring Boot apps |
 | Maven | [madimadica-utils](https://github.com/madimadica/madimadica-utils) | API with common utilities, primarily for collections |
 | Maven | [better-env](https://github.com/madimadica/better-env) | Java environment variable annotation/reflection based data-binding |
@@ -33,7 +34,7 @@ Here are some cool projects I've worked on. The "type" categorizes the project. 
 | Misc | [leetcode-java](https://github.com/madimadica/leetcode-java) | Solving all leetcode problems in-order, in Java |
 | Misc | [Together-Java/AdventOfCode](https://github.com/Together-Java/AdventOfCode) | Major contributor to AoC tooling library, in Java |
 | WIP | [learn](https://github.com/madimadica/learn) | Website ([learn.madimadica.com](https://learn.madimadica.com)) for interactive e-books in CS/Math |
-| WIP | [hyde](https://github.com/madimadica/hyde) | Java dependency - Markdown to AST parser, with HTML rendering |
+
 
 
 <!-- TODO AoC solutions repo -->
