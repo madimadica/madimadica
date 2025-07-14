@@ -5,7 +5,7 @@
 | Tier  | Languages |
 |-------|----------|
 | S     | Java |
-| A     | JavaScript, Python, PHP, SQL (MySQL, SQL Server), CSS |
+| A     | JavaScript, Python, PHP, SQL (Postgres, MySQL, SQL Server), CSS |
 | B     | LaTeX, Markdown |
 | C     | C++, C#, TypeScript |
 | D     | C, R, Go |
@@ -20,10 +20,13 @@ Here are some cool projects I've worked on. The "type" categorizes the project. 
 
 | Type | Name  | Description |
 |-------|----------|----------|
-| Java/Maven | [hyde](https://github.com/madimadica/hyde) | Java dependency - Markdown to AST parser, with HTML rendering |
-| Maven | [madimadica-jdbc-for-spring](https://github.com/madimadica/madimadica-jdbc-for-spring) |  Fluent JDBC API for SQL in Spring Boot apps |
-| Maven | [madimadica-utils](https://github.com/madimadica/madimadica-utils) | API with common utilities, primarily for collections |
-| Maven | [better-env](https://github.com/madimadica/better-env) | Java environment variable annotation/reflection based data-binding |
+| Java / Maven | [hyde](https://github.com/madimadica/hyde) | Java dependency - Markdown to AST parser, with HTML rendering |
+| (WIP) Java / Spring | [voidrelics.com](https://github.com/madimadica/voidrelics.com) | Java Spring Webapp for Warframe relic groups |
+| Java | [Together-Java/AdventOfCode](https://github.com/Together-Java/AdventOfCode) | Major contributor to AoC tooling library, in Java |
+| Java | [AdventOfCode-2024](https://github.com/madimadica/AdventOfCode-Java)) | My 2024 AOC Java Solutions |
+| Java / Maven | [madimadica-jdbc-for-spring](https://github.com/madimadica/madimadica-jdbc-for-spring) |  Fluent JDBC API for SQL in Spring Boot apps |
+| Java / Maven | [madimadica-utils](https://github.com/madimadica/madimadica-utils) | API with common utilities, primarily for collections |
+| Java / Maven | [better-env](https://github.com/madimadica/better-env) | Java environment variable annotation/reflection based data-binding |
 | LaTeX | [Bradley-MTH307](https://github.com/madimadica/Bradley-MTH307) | Linear Algebra |
 | LaTeX | [Bradley-MTH325](https://github.com/madimadica/Bradley-MTH325) | Probability & Statistics I |
 | LaTeX | [Bradley-MTH326](https://github.com/madimadica/Bradley-MTH326) | Probability & Statistics II |
@@ -32,7 +35,6 @@ Here are some cool projects I've worked on. The "type" categorizes the project. 
 | LaTeX | [Bradley-MTH420](https://github.com/madimadica/Bradley-MTH420) | Real Analysis |
 | LaTeX | [Bradley-MTH427](https://github.com/madimadica/Bradley-MTH427) | Applied Statistical Methods |
 | Misc | [leetcode-java](https://github.com/madimadica/leetcode-java) | Solving all leetcode problems in-order, in Java |
-| Misc | [Together-Java/AdventOfCode](https://github.com/Together-Java/AdventOfCode) | Major contributor to AoC tooling library, in Java |
 | WIP | [learn](https://github.com/madimadica/learn) | Website ([learn.madimadica.com](https://learn.madimadica.com)) for interactive e-books in CS/Math |
 
 
