@@ -23,7 +23,7 @@ Here are some cool projects I've worked on. The "type" categorizes the project. 
 | Java / Maven | [hyde](https://github.com/madimadica/hyde) | Java dependency - Markdown to AST parser, with HTML rendering |
 | (WIP) Java / Spring | [voidrelics.com](https://github.com/madimadica/voidrelics.com) | Java Spring Webapp for Warframe relic groups |
 | Java | [Together-Java/AdventOfCode](https://github.com/Together-Java/AdventOfCode) | Major contributor to AoC tooling library, in Java |
-| Java | [AdventOfCode-2024](https://github.com/madimadica/AdventOfCode-Java)) | My 2024 AOC Java Solutions |
+| Java | [AdventOfCode-2024](https://github.com/madimadica/AdventOfCode-Java) | My 2024 AOC Java Solutions |
 | Java / Maven | [madimadica-jdbc-for-spring](https://github.com/madimadica/madimadica-jdbc-for-spring) |  Fluent JDBC API for SQL in Spring Boot apps |
 | Java / Maven | [madimadica-utils](https://github.com/madimadica/madimadica-utils) | API with common utilities, primarily for collections |
 | Java / Maven | [better-env](https://github.com/madimadica/better-env) | Java environment variable annotation/reflection based data-binding |
